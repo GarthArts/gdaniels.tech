@@ -1,7 +1,5 @@
-This is my personal student/professional portfolio. It was created by modifying the free bootstrap template "Kross" byu Themefisher, which you can download [here.](https://github.com/themefisher/kross/archive/main.zip)
+This is my personal student/professional portfolio. It was created by modifying the free bootstrap template "Kross" by Themefisher, which you can download [here.](https://github.com/themefisher/kross/archive/main.zip)
 
-
-eee
 
 <!-- installation -->
 ### Basic Usages
