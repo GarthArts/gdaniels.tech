@@ -1,32 +1,7 @@
-# Kross By Themefisher
+This is my personal student/professional portfolio. It was created by modifying the free bootstrap template "Kross" byu Themefisher, which you can download [here.](https://github.com/themefisher/kross/archive/main.zip)
 
-Kross is a creative, sleek and modern personal portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics.
 
-<!-- demo -->
-## Example Site
 
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
-|:---:|:---:|:---:|
-| **Home**  | **About**  | **Portfolio** |
-| [![](screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
-| **Blog** | **Blog Details** | **Contact** |
-
-👉🏻[View Live Preview](https://demo.themefisher.com/kross/)
-
-<!-- pages -->
-## Pages
-
-* **Homepage**
-* **About**
-* **Portfolio**
-* **Blog**
-* **Blog Details**
-* **Contact**
-
-<!-- download -->
-## Download And installation
-
-Download this template from [Github](https://github.com/themefisher/kross/archive/main.zip)
 
 <!-- installation -->
 ### Basic Usages
